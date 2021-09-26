@@ -32,3 +32,6 @@ Plans for this quarter
 - [ ] ATTEND LECTURES
 - [ ] STUDY HARD
 - [ ] HAVE FUN
+
+My Favorite Cat 
+![CAT](cat.jpg)
